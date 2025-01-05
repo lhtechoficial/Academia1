@@ -1,0 +1,27 @@
+1 git status
+2 git add .
+3 git commit -m "Descrição das alterações"
+4 git push
+
+-----------------------------------------------------------------
+
+git remote add origin https://github.com/lhtechoficial/Academia1
+(Conectar ao Repo)
+
+git remote -v
+(verificar se foi conectado)
+
+git add .
+(adicionar alterações feitas por você)
+git add nome-do-arquivo
+(se quiser adicionar apenas 1 arquivo)
+
+git commit -m "Mensagem descrevendo as alterações"
+(criar commit)
+
+git push -u origin main
+git push
+(para enviar)
+
+git status
+(saber se foi enviado)
