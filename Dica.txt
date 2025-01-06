@@ -1,8 +1,11 @@
-1 git status
-2 git add .
-3 git commit -m "Descrição das alterações"
-4 git push
+git status
+git add .
+git commit -m "Descrição das alterações"
+git push
 
+
+git checkout -b nomedabranch
+(criar e entrar na branch)
 -----------------------------------------------------------------
 
 git remote add origin https://github.com/lhtechoficial/Academia1
